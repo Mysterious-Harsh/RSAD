@@ -26,4 +26,16 @@ challan and send to the owner of vehicle.
 ## How to run
 1. run python Main.py in terminal
 ## Snapshots
-![login]
+1. Login
+![login](Snapshots/1.png)
+2. admin
+![admin](Snapshots/2.png)
+3. user
+![user](Snapshots/3.png)
+4. Detection
+![detection](Snapshots/7.png)
+5. Outputs
+![Output](RSAD/static/Dataset/Output/2.png)
+![Output](RSAD/static/Dataset/Output/3.png)
+![Output](RSAD/static/Dataset/Output/23.png)
+![Output](RSAD/static/Dataset/Output/35.png)
